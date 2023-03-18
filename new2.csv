@@ -1,0 +1,5 @@
+SQL coln,SQL DT,Excel Colns,Excel DT,Status
+order_date,date,order-date,date,fail( Date format should be (YYYY-MM-DD)
+cust_name,nvarchar,cust_name,string,pass
+sp,"decimal(18,2)",sp,float,pass
+cp,"decimal(18,2)",cp,float,pass

@@ -1,0 +1,6 @@
+SQL coln,SQL DT,Excel Colns,Excel DT,Status
+order_date,date(YYYY-MM-DD),order-date,date(YYYY-MM-DD),pass
+cust_name,nvarchar,cust_name,string,pass
+sp,"decimal(18,2)",sp,float,pass
+cp,"decimal(18,2)",cp,float,pass
+,,,,data inserted 

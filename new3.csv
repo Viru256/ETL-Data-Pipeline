@@ -1,0 +1,5 @@
+SQL coln,SQL DT,Excel Colns,Excel DT,Status
+order_date,date(YYYY-MM-DD),Date1,date,fail(Column name not same)
+cust_name,nvarchar,Customer,string,fail(Column name not same)
+sp,"decimal(18,2)",sp,float,pass
+cp,"decimal(18,2)",cp,float,pass
